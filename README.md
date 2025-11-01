@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="left">👋 Hello there! I'm Felipe Nogueira</h1>
 
 ###
+
+<br clear="both">
 
 <p align="left">I’m a passionate full-stack web developer and a Computer Science undergraduate at UFJF, currently working at APP2C Softwares Startup and conducting Biotechnology research through a scientific initiative. Throughout my journey, I’ve developed and designed several web solutions focused on performance, user experience, and real impact. I value continuous learning, collaboration, and creativity in solving real-world problems. I believe technology is a powerful tool to transform ideas into meaningful and accessible digital experiences, and I’m always striving to grow, improve, and create solutions that make a difference.</p>
 
@@ -17,9 +21,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">I Code with:</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
@@ -36,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Other Tools:</h2>
 
@@ -54,6 +64,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-nog/felipe-nog/output/pacman-contribution-graph-dark.svg">
