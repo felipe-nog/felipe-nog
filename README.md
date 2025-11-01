@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h1 align="left">👋 Hello there! I'm Felipe Nogueira</h1>
 
 ###
-
-<br clear="both">
 
 <p align="left">I’m a passionate full-stack web developer and a Computer Science undergraduate at UFJF, currently working at APP2C Softwares Startup and conducting Biotechnology research through a scientific initiative. Throughout my journey, I’ve developed and designed several web solutions focused on performance, user experience, and real impact. I value continuous learning, collaboration, and creativity in solving real-world problems. I believe technology is a powerful tool to transform ideas into meaningful and accessible digital experiences, and I’m always striving to grow, improve, and create solutions that make a difference.</p>
 
@@ -21,13 +17,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">I Code with:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
@@ -44,8 +36,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Other Tools:</h2>
 
@@ -65,12 +55,9 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-nog/felipe-nog/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-nog/felipe-nog/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipe-nog/felipe-nog/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-nog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-nog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
